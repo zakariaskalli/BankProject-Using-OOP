@@ -1,0 +1,49 @@
+﻿  Problem.cpp
+C:\Project C++\OPP Level-2\Problem\Problem\clsDate.h(28,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsDate.h(1210,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsDate.h(1215,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(63,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(206,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(352,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(376,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(403,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(519,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(533,13): warning C4101: 'Pos': unreferenced local variable
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(584,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsString.h(589,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsBankClient.h(31,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsBankClient.h(115,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Problem.cpp')
+  
+  Generating code
+  Finished generating code
+  3 of 362 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Problem.vcxproj -> C:\Project C++\OPP Level-2\Problem\x64\Release\Problem.exe

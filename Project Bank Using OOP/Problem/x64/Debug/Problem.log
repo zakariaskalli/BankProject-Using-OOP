@@ -1,0 +1,12 @@
+﻿  Problem.cpp
+C:\Project C++\OPP Level-2\Problem\Problem\clsUser.h(192,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Problem.cpp')
+  C:\Project C++\OPP Level-2\Problem\Problem\clsUser.h(25,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Project C++\OPP Level-2\Problem\Problem\clsBankClient.h(206,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Problem.cpp')
+  C:\Project C++\OPP Level-2\Problem\Problem\clsBankClient.h(27,9):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  Problem.vcxproj -> C:\Project C++\OPP Level-2\Problem\x64\Debug\Problem.exe
